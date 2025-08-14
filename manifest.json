@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ExpoWoo",
+    "description": "Unhides the 'Export Template' option in the settings screen. To export your world, Play the world you want to export. Open Settings from the pause menu. Scroll down to find the 'Export Template' button. Click it, choose your file location. Rename it as '[yourworld].mcworld' (or .mctemplate, if needed). And Boom.....  It's Done... Enjoy exporting worlds easily. - Made by @ViruDaya",
+    "uuid": "4a33b3e5-642e-4ca8-ae12-e924520bf4b8",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "fbda7ebf-1e37-44b9-b64f-101cd188ab04",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["ViruDaya"],
+    "url": "https://instagram.com/_virudaya_"
+  }
+}
